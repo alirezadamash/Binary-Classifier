@@ -1,6 +1,6 @@
 # Binary Classifier
 
-This project focuses on performing binary classification on a dataset with 1000 points, 12 features, and labels of 1 or -1 for each point. The goal is to compare the performance of simple models to complex models using ROC/AUC diagrams and identify the best model.
+This project focuses on performing binary classification on a dataset with 1000 points, 12 features, and labels of 1 or -1 for each point. The goal is to compare the performance of simple models to complex models using ROC diagrams and AUC scores and identify the best model.
 
 ## Requirements
 
@@ -48,4 +48,4 @@ The following models are evaluated in this project:
 
 ## Results
 
-The performance of each model is compared using ROC/AUC diagrams. The model with the highest AUC score is considered the best.
+The performance of each model is compared using ROC diagrams and AUC scores. The model with the highest AUC score is considered the best.
