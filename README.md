@@ -14,22 +14,22 @@ This project focuses on performing binary classification on a dataset with 1000 
 git clone https://github.com/alirezadamash/binary-classifier.git
 ```
 2. Navigate to the project directory:
-
+```
 cd binary-classifier
-
+```
 
 3. Install the required libraries:
-
+```
 pip install -r requirements.txt
-
+```
 ## Usage
 
 1. Place your dataset in a CSV file named `data.csv` in the project directory.
 
 2. Run the main script:
-
+```
 python models.py
-
+```
 3. The ROC curve will be displayed, comparing the performance of several models. The model with the highest AUC score is considered the best.
 
 ## Dataset
