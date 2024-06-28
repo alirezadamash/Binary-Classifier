@@ -10,9 +10,9 @@ This project focuses on performing binary classification on a dataset with 1000 
 ## Installation
 
 1. Clone the repository:
-'''
+```
 git clone https://github.com/alirezadamash/binary-classifier.git
-'''
+```
 2. Navigate to the project directory:
 
 cd binary-classifier
